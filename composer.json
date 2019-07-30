@@ -1,0 +1,16 @@
+{
+    "name": "blashchyk/standart_password_validate",
+    "description": "Standard password check",
+    "license": "",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Dmitriy Blashchyk",
+            "email": "dmitriy.blashchyk@gmail.com"
+        }
+    ],
+    "require": {},
+    "psr-4": {
+        "Blashchyk\\StandartPasswordValidate\\": ""
+    }
+}
